@@ -1,0 +1,11 @@
+.container{
+    background-color: navy !important;
+}
+
+.toolbar {
+    justify-content: center;
+}
+
+.header {
+    font-size: 1.75rem !important;
+}
