@@ -1,5 +1,5 @@
 # COVID-19 Tracker
-Coronavirus Tracker app created with Node.js and React
+Coronavirus Tracker app created with Node.js and React. **[Live Demo](https://thecerealcoder.github.io/covid-19-tracker/)**
 
 ![Demo](./public/demo.gif)
 
